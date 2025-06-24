@@ -93,3 +93,11 @@ XGBoost showed potential by outperforming simpler models.
 Feature encoding and scaling were crucial steps before applying machine learning algorithms.
 
 Understanding the nature of your target variable and exploring the data thoroughly improves model interpretability.
+
+*Output*
+
+![Image](https://github.com/user-attachments/assets/1a3476b6-ddc6-4b81-b13d-eb1de29ed459)
+
+![Image](https://github.com/user-attachments/assets/cd24c21d-9ba8-4820-bd7a-e5e590581f5a)
+
+![Image](https://github.com/user-attachments/assets/7f921417-f764-4fdc-aba5-d88f8ac2193a)
